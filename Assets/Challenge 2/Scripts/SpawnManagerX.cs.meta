@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 745c25f6adc3b4804961d8389a1a74fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146044
+  packageName: Create with Code | Challenge 2 - Play Fetch
+  packageVersion: 1.0
+  assetPath: Assets/Challenge 2/Scripts/SpawnManagerX.cs
+  uploadId: 326620

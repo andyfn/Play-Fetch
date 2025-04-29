@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aba24ec01e08d4e8596c800afced39e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146044
+  packageName: Create with Code | Challenge 2 - Play Fetch
+  packageVersion: 1.0
+  assetPath: Assets/Challenge 2/Scripts/MoveForwardX.cs
+  uploadId: 326620
